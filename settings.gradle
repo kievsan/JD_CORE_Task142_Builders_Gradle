@@ -1,0 +1,5 @@
+rootProject.name = 'JD_CORE_Task142_Builders_Gradle'
+include 'db'
+include 'service'
+include 'api'
+
